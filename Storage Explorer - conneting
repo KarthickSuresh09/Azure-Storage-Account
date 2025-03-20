@@ -1,0 +1,11 @@
+Step1 : Download Azure Storage Explorer etxracte and open the explorer
+
+Step2 : click the plugin symbol
+
+step3 : click storage account or services
+
+step4 : Now we are connecting with account name and key option
+
+step 5 : go to your Azure portal storage account services in your storage account there is option "Access Keys"
+
+Step6 : copy and paste your storage account name and key and connect
