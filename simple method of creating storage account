@@ -1,0 +1,15 @@
+Step1 : create storage account
+
+step2 : chose the subscribation 
+
+step3 : create resource group
+
+step4 : Storage account name
+
+step5 : chose region like "westus"
+
+step6 : chose the Performance like "standard or premium"
+
+step7 : chose the redundancy like "LRS, GRS, ZRS, GZRS"
+
+step8 : reveiew + create
