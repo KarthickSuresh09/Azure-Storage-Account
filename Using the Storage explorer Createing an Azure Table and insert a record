@@ -1,0 +1,12 @@
+Step 1: Go to your Azure storage explorer
+
+Step 2: In your storage account there is "Tables" option right click on it
+
+Step 3: create a Table give name and enter
+
+Step 4: there is add button clickon it
+
+Step 5: 
+
+# PartitionKey means unique on of the tables
+# RowKey means is like serial number
